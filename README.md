@@ -4,8 +4,7 @@ This project demonstrates how to build and deploy a simple static website using 
 
 Whenever code is pushed to the main branch, the pipeline automatically updates the running application on the EC2 server.
 
-🌐 Live Demo
-http://13.51.238.105
+
 🏗 Project Architecture
 Developer Push
       ↓
