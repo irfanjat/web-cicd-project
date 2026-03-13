@@ -126,5 +126,4 @@ Infrastructure automation concepts
 
 Irfan Ali
 
-DevOps & Cloud Enthusiast
-Passionate about building automated cloud infrastructure and CI/CD pipelines.
+
