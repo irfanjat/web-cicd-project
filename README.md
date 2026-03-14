@@ -5,7 +5,7 @@ This project demonstrates how to build and deploy a simple static website using 
 Whenever code is pushed to the main branch, the pipeline automatically updates the running application on the EC2 server.
 
 
-🏗 Project Architecture
+🏗 Project Architecture.
 Developer Push
       ↓
 GitHub Repository
